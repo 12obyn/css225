@@ -1,3 +1,6 @@
+# Add your authoring comments
+# What does this program do?
+
 import turtle
 wn = turtle.Screen()
 roger = turtle.Turtle()
